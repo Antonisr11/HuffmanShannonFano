@@ -1,9 +1,12 @@
 # HuffmanShannonFano
 Analyze letter frequency from a txt and encode it with fixed coding algorithm, Shannon-Fano and Huffman
 
-Total Text Characters: 2854
-Total Alphabet Characters: 25
-Most common Letter is 'e' with probability 0.1334968465311843%
+
+##Total Text Characters: 2854
+##Total Alphabet Characters: 25
+##Most common Letter is 'e' with probability 0.1334968465311843%
+
+
 |Letter |Count |Probability          |Fixed Code |Shannon-Fano Code |Huffman Code |
 |-------|------|---------------------|-----------|------------------|-------------|
 |e      |381   |0.1334968465311843   |00000      |00000             |100          |
